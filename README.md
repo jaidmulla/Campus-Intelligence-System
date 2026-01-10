@@ -65,5 +65,24 @@ It provides a centralized platform for students, faculty, and management to comm
 - Font Awesome Icons
 
 ---
-
-
+project/
+│
+├── app.py
+├── config.py
+├── database.py
+├── auth/
+│   ├── __init__.py
+│   └── routes.py
+│
+├── tasks/
+│   ├── __init__.py
+│   └── routes.py
+│
+├── templates/
+│   ├── login.html
+│   ├── register.html
+│   └── dashboard.html
+│
+└── static/
+    └── styles.css
+    
