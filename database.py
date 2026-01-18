@@ -70,7 +70,7 @@ def init_db():
             users = [
                 ("student", "student123", "student", "Student User", "student@nexus.edu", "555-0100"),
                 ("dean", "dean123", "dean", "Dr. J Dean", "dean@nexus.edu", "555-0200"),
-                ("faculty1", "faculty123", "faculty", "Prof. Alan Grant", "prof@nexus.edu", "555-0300"),
+                ("faculty1", "faculty123", "faculty", "Prof. jaid ", "prof@nexus.edu", "555-0300"),
                 ("admin", "admin123", "admin", "System Admin", "admin@nexus.edu", "555-0000"),
             ]
 
